@@ -193,7 +193,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ## Contact
 
-For any questions or suggestions, feel free to contact me at [your-email@example.com].
+For any questions or suggestions, feel free to contact me at [educin15@hotmail.com].
 
 ---
 
